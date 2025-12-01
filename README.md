@@ -30,9 +30,9 @@
 ---
 
 ## 🔹 Contact
-- Email: izaz@gmail.com  
-- LinkedIn: [linkedin.com/in/izazullah](#)  
-- GitHub: [https://github.com/izazullah](https://github.com/izazullah)
+- Email: uizaz372@gmail.com  
+- LinkedIn: 
+- GitHub: https://github.com/uizaz372-wq/uizaz372-wq
 
 ---
 
