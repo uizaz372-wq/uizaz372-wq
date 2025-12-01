@@ -1,48 +1,39 @@
-👋 Hi, I'm Izaz Ullah
-CS50 Graduate | Python Beginner Developer | Web Development Learner | Open for Freelance Work
+# Hi, I'm Izaz Ullah 👋
+**CS50 Graduate | Python Developer | Web Development | Automation & Web Scraping | Mini Projects Specialist | Open to Freelance Work & Part-Time Tasks**
 
-Welcome to my GitHub profile!
-I am learning programming step-by-step and building real projects to improve my skills.
-My main focus right now:
+---
 
-🔥 Python basics → functions, loops, file handling
+## 🔹 Skills
+- Python
+- C Programming
+- HTML, CSS, JavaScript
+- Flask / Django (web frameworks)
+- Git & GitHub
+- Automation / Web Scraping
 
-🌐 HTML + CSS (web design starter)
+---
 
-🧮 Small automation scripts
+## 🔹 CS50 Projects
+- **Filter (Image Processing)** – [Link to repository](#)
+- **Volume (Audio Manipulation)** – [Link to repository](#)
+- **Readability Checker** – [Link to repository](#)
+- **Finance (Stock / Cash Management)** – [Link to repository](#)
 
-🕸 Web scraping basics
+---
 
-🚀 CS50 Intro to Computer Science completed
+## 🔹 Self-Made Projects
+- Weather App (Python + API)
+- To-Do Web App (HTML, CSS, JS)
+- YouTube Video Downloader (Python)
+- Login / Signup Page (Web)
 
-⚒️ Skills (Growing Every Day)
+---
 
-Languages: Python, C (from CS50), HTML, CSS
+## 🔹 Contact
+- Email: izaz@gmail.com  
+- LinkedIn: [linkedin.com/in/izazullah](#)  
+- GitHub: [https://github.com/izazullah](https://github.com/izazullah)
 
-Tools: Git, GitHub, VS Code
+---
 
-Concepts: Problem solving, algorithms, debugging
-
-📂 Current Projects I'm Working On
-
-✔ Beginner Python projects
-
-✔ Web scraping practice
-
-✔ Simple websites
-
-✔ Automation mini-tools
-
-(Projects soon appear here as I upload them)
-
-📫 Contact Me (Freelance Work)
-
-If you want small tasks, mini scripts, or help with code:
-
-Email: uizaz372@gmail.com
-
-GitHub: https://github.com/uizaz372-wq
-
-⭐ My Goal
-
-I want to become a professional Python + Web Developer and work online as a freelancer
+> “Coding is not just writing programs, it’s solving real-world problems.”
