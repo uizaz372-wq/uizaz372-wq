@@ -14,7 +14,7 @@
 ---
 
 ## 🔹 CS50 Projects
-- **Filter (Image Processing)** – [Link to repository](#)
+- **Filter (Image Processing)** – [Link to repository](https://github.com/izazullah/Filter-CS50)
 - **Volume (Audio Manipulation)** – [Link to repository](#)
 - **Readability Checker** – [Link to repository](#)
 - **Finance (Stock / Cash Management)** – [Link to repository](#)
