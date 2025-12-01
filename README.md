@@ -17,7 +17,8 @@
 https://github.com/uizaz372-wq/filter-CS50
 
 https://github.com/uizaz372-wq/Volume-CS50
-- **Readability Checker** – [Link to repository](#)
+
+https://github.com/uizaz372-wq/Readability-CS50
 - **Finance (Stock / Cash Management)** – [Link to repository](#)
 
 ---
